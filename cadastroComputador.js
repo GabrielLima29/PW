@@ -36,5 +36,5 @@ function cadastrar(){
          .then(function(responde) {
             alert("Cadastrado(a) com Sucesso!")
         })
-    }
+    })
 }
